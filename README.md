@@ -3,4 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Cambios
-Ahora tambien hago cambios desde mi local misma linea
+Vuelvo y hago el ejercicio : Ahora tambien hago cambios desde mi local misma linea
